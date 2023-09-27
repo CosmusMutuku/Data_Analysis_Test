@@ -1,6 +1,7 @@
 location,date,new_cases,new_deaths,population,aged_65_older_percent,gdp_per_capita,hospital_beds_per_thousand
 Afghanistan,2019-12-31,0,0,38928341,2.581,1803.987,0.5
 Afghanistan,2020-01-01,0,0,38928341,2.581,1803.987,0.5
+
 Afghanistan,2020-01-02,0,0,38928341,2.581,1803.987,0.5
 Afghanistan,2020-01-03,0,0,38928341,2.581,1803.987,0.5
 Afghanistan,2020-01-04,0,0,38928341,2.581,1803.987,0.5
